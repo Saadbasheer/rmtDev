@@ -3,8 +3,8 @@ export default function Footer() {
     <footer className="footer">
       <small>
         <p>
-          © Copyright by{" "}
-          <a  target="_blank">
+          Project by{" "}
+          <a  href="https://github.com/Saadbasheer/rmtDev">
             saadbasheer
           </a>
           . Intended for portfolio.
